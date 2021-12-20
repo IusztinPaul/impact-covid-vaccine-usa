@@ -2,3 +2,11 @@ jupyterlab
 pandas
 matplotlib
 statsmodels
+plotly
+geopandas
+pyshp
+shapely
+plotly-geo
+kaleido
+opencv-python
+tqdm
