@@ -153,3 +153,5 @@ cython_debug/
 
 # Data
 *.csv
+*.avi
+images/
