@@ -10,3 +10,4 @@ plotly-geo
 kaleido
 opencv-python
 tqdm
+us
